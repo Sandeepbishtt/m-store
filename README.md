@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# m-store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mobile Store i.e. can add/delete the product in the cart (React Js/Redux)
+
+
 
 ## Available Scripts
 
