@@ -1,8 +1,8 @@
-# m-store
+## m-store
 
 Mobile Store i.e. can add/delete the product in the cart (React Js/Redux)
 
-
+# Install dependencies using 'npm install' 
 
 ## Available Scripts
 
